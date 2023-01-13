@@ -1,17 +1,12 @@
 # Multiple Language Versions
 
 * [(HTML - PDF) on GitBook](https://astaxie.gitbooks.io/build-web-application-with-golang)
-* [English](en/preface.md)
 * [简体中文](zh/preface.md)
 
 ## Community
 QQ群：148647580
 
 BBS：[http://gocn.io/](http://gocn.io/)
-
-## Contributors
-
-- See [contributors page](https://github.com/astaxie/build-web-application-with-golang/graphs/contributors) for full list of contributors.
 
 ## Acknowledgments
 
